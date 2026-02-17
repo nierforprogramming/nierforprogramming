@@ -1,10 +1,19 @@
-### Hi There 👋🏻, I am Niraj 
+### Hi there! 👋 I'm Niraj
 
-### 🧑🏻‍🎓 Achievements
-I am a web developer. I build web apps and mobile apps. I like
-to adapt along with trend.
+I'm a Frontend Developer who loves turning ideas into web and mobile apps. I enjoy keeping up with trends and experimenting with new tech — learning never stops!
 
-### 🧑🏻‍💻 Main Programming Language
-I like **JavaScript** a lot because it is such a flexible language. We can almost
-build anything with it. My second most liked programming language is **Python**.
+#### 🧑🏻‍💻 Tech & Tools I Use
 
+- Frontend: React, Next.js, Tailwind CSS, Bootstrap, Vanilla HTML/CSS/JS
+
+- Learning: Mobile app development (React Native)
+
+- Comfort Zone: A little backend to make life easier
+
+#### 💡 Facts
+
+- JavaScript is my playground — I love how flexible it is!
+
+- I enjoy building clean, modern interfaces that people love to use.
+
+- Always exploring new frameworks and tools to stay ahead.
